@@ -12,7 +12,7 @@ We propose a plaint sexual identity, equal respect for human, better treats for 
 
 We against monopolists, capitalists, exploitation of any kind even it is from any authorities like Uncle Sam.
 
-You can check out our [principles](/#/principles).
+You can check out our [principles](/principles).
 ### The name of us
 
 This organization is named after a Chinese phrase `"传三代"` (pass down to three gens). The founder wanted Sandai could live longer and pass down its unique philosophy to more people and later gens.
