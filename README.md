@@ -4,9 +4,18 @@
 
 ## philosophy
 
+### What do we appeal
+
+Actually, we don't have a virtual list of our proposal. Instead, we have foundmental principles to deal with certain questions.
+
+We propose a plaint sexual identity, equal respect for human, better treats for workers in terrible circumstances, no discrimination, and so on. We are born with the right to equally live on the shared world. Thus, everyone should have their own rights though they maybe stolen by other corporations or govs, however, should be fully recognized and respected.
+
+We against monopolists, capitalists, exploitation of any kind even it is from any authorities like Uncle Sam.
+
+You can check out our [principles](/#/principles).
 ### The name of us
 
-This organization is named after a Chinese phrase "传三代" (pass down to three gens). The founder wanted Sandai could live longer and pass down its unique philosophy to more people and later gens.
+This organization is named after a Chinese phrase `"传三代"` (pass down to three gens). The founder wanted Sandai could live longer and pass down its unique philosophy to more people and later gens.
 
 Meanwhile, the following "Ltd" doesn't means it is a limited company but a organization that limits its amount of members. The reason for this will be explained as follows.
 
@@ -32,6 +41,6 @@ We don't have someting like central committee or so. But we do have a stict stru
 
 We have online parties so we mainly use IP white-list to ensure we won't be broken in.
 
-Offers should be sent to a specific link which is hidden in this site. It is suggested to read our principles before application.
+Offers should be sent to a specific link which is **hidden in this site**. It is suggested to read our **principles** before application.
 
 Since the amount of members are limited, the most outstanding will be accepted priorily. Your application might not be responded, which doesn't mean we don't considerate your support.
